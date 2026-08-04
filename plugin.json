@@ -1,0 +1,12 @@
+{
+  "id": "imagestream",
+  "name": "ImageStream",
+  "version": "1.0.0",
+  "sdkVersion": "1.18",
+  "entryAssembly": "LoupixDeck.Plugin.ImageStream.dll",
+  "platform": "All",
+  "author": "RadiatorTwo",
+  "description": "Stream an FFmpeg-compatible video source to the full device display.",
+  "projectUrl": "",
+  "iconFile": ""
+}
